@@ -1,6 +1,4 @@
 # ESP_MQTT_-SIMPLE_PubSub
-Um projeto que consiste em demonstrar a utilização do ESP com um protocolo MQTT
-Vou ler o script que você enviou e já volto com a explicação sobre como ele funciona.
 
 Este script é um programa para um microcontrolador ESP8266 que utiliza a conexão WiFi e o protocolo MQTT para comunicação com um servidor MQTT (também conhecido como "broker"). Aqui está uma explicação sobre o funcionamento dele:
 
